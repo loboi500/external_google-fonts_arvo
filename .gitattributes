@@ -1,0 +1,13 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+Arvo-BoldItalic.ttf filter=lfs diff=lfs merge=lfs -text
+Arvo-Bold.ttf filter=lfs diff=lfs merge=lfs -text
+FONTLOG.txt filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+Arvo-Italic.ttf filter=lfs diff=lfs merge=lfs -text
+Arvo-Regular.ttf filter=lfs diff=lfs merge=lfs -text
+DESCRIPTION.en_us.html filter=lfs diff=lfs merge=lfs -text
+fonts.mk filter=lfs diff=lfs merge=lfs -text
+METADATA.pb filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BY_EXCEPTION_ONLY filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
